@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Kim
 
 # Netease settings
 netease_comment: false
@@ -78,7 +78,7 @@ ga_domain: kjywow94.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "나의 좌우명 : <br>한줄 코드라도 서로 거들면 낫다."
 sidebar-avatar: /img/Kimjun.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
