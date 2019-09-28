@@ -5,16 +5,16 @@ Hi，我是黄玄，前端 Online NPC，编程语言/编译器初心者，广院
 目前的物理活动范围主要在美帝，分身日常出没于[博客](https://huangxuan.me)、[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro)、[Medium](https://medium.com/@Huxpro)。
 
 
-##### 编程语言倾向表
+##### 내 프로그래밍 언어 스펙트럼
 
-> __从左到右__ 为喜欢程度，__从上到下__ 为了解程度，__版本__ 表示下界。
+> __Left-right__ is how much I prefer it.  __Top-down__ is how much I know it. __Versions__ are lower bounds. 
 
 |     | 💔️           | ❤️ ️                 | ❤️❤️ ️                     | ❤️❤️❤️ ️               |
 | --- | ------------- | -------------------- | -------------------------- | ---------------------- |
-| 😅  | `PHP` `BASIC` | `C` `ObjC` `Prolog`  | `Kotlin` `Dart` `MIPS`     | `Swift` `Agda` `Idris` |
-| 🧐  |               | `C++` `Hack` `Lisp*` | `C++11` `C#` `AS3`         | `Scala` `Rust`         |
-| 😏  | `Shell`       | `Java` `Python`      | `TypeScript` `Flow` `Wasm` | `Haskell` `Coq` `ML*`  |
-| 🤓  |               | `JavaScript`         | `EcmaScript6`              | `λ` `Λ` `Π` `Σ`        |
+| 😅  | `PHP` `BASIC` | `C` `ObjC` `Prolog`  |      | `Android`  |
+| 🧐  |               | `C++` `Hack` `Lisp*` | `C++18`          |          |
+| 😏  | `Shell`       | `Java` `Python`      |  |   |
+| 🤓  |               | `JavaScript`         |               |       |
 
 > __`ML*` 家族__：`OCaml` `ReasonML` `SML`  
 > __`Lisp*` 家族__：`Clojure` `Scheme` `Racket`
