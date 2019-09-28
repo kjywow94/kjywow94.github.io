@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "你是我的梦想"
+description: "무엇을 좋아할까요?"
 header-img: "img/about-bg.jpg"
 multilingual: true
 ---
@@ -9,9 +9,9 @@ multilingual: true
 {% include multilingual-sel.html %}
 
 <!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
+<div class="ko post-container">
+    {% capture about_ko %}{% include about/ko.md %}{% endcapture %}
+    {{ about_ko | markdownify }}
 </div>
 
 <!-- English Version -->
@@ -39,7 +39,7 @@ multilingual: true
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
